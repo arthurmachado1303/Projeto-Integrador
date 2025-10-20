@@ -1,0 +1,1 @@
+"Para demonstrar um cenário de segurança, foi desenvolvido um verificador de senhas em Python, que simula o envio de um token via e-mail ou SMS para validar o acesso. Essa funcionalidade não tem fins produtivos, mas sim demonstrativos, representando práticas de segurança de dois fatores (2FA) aplicáveis em sistemas reais."
